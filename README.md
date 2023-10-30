@@ -19,7 +19,7 @@
 - Effective Requirement Gathering and cross-functional collaboration helped reduce scope changes by 20% thereby reducing project delays by 25%.
 
 **Junior Data Scientist @ Neuralsift (_Apr 2021 - Sept 2021_)**
--Assisted in product development, including Neoface (face/mask and temperature recognition/attendance by face recognition).
+- Assisted in product development, including Neoface (face/mask and temperature recognition/attendance by face recognition).
 - Utilized Python for data analysis and result reporting.
 - Contributed to the development and curation of labeled data for ANPR cameras deployed in India.
 - Collaborated with team members and leaders to identify analytical requirements and collect project information.
